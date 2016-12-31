@@ -1,6 +1,7 @@
 # Vagrant Host: Archlinux, Guest: Ubuntu
 
 Host:
+
 	1. yaourt -S virtualbox
 		#(virtualbox-host-modules-arch)
 	
